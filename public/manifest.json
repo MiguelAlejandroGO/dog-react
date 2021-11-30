@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "AdoptaDog",
+  "name": "Una app para adoptar un perrito",
   "icons": [
     {
       "src": "favicon.ico",
