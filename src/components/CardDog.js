@@ -20,7 +20,7 @@ const CardDog = () => {
 
 const alert= () => {
     return MySwal.fire({
-        title: <p>Tu solicitud a sido Enviada :3</p>,
+        title: <p>Tu solicitud ha sido enviada :3</p>,
       })
     };
 
